@@ -21,8 +21,8 @@ All the task i completed for Google Code-In 2019
 24. [[Certificate Generator Frontend] Generic error page](https://codein.withgoogle.com/tasks/6571755687116800/)
 
 4. [[GoLang] Setup a GoLang Project to support REST endpoints](https://codein.withgoogle.com/tasks/5349326289633280/)
-13. [[Golang] Create a server that acts as a URL shortener](https://codein.withgoogle.com/tasks/6311127072374784/)
-16. [[Golang]. Build a RESTful API server using Go language](https://codein.withgoogle.com/tasks/4516771978018816/)
+13. [[GoLang] Create a server that acts as a URL shortener](https://codein.withgoogle.com/tasks/6311127072374784/)
+16. [[GoLang]. Build a RESTful API server using Go language](https://codein.withgoogle.com/tasks/4516771978018816/)
 
 2. [[Quarkus] Deploying the quarkus app on kubernetes and Openshift](https://codein.withgoogle.com/tasks/4801033146990592/)
 17. [[Quarkus] Create a random name generator using Quarkus](https://codein.withgoogle.com/tasks/5432164095623168/)
@@ -33,9 +33,9 @@ All the task i completed for Google Code-In 2019
 11. [[Easy] Create your first game with ReactJS](https://codein.withgoogle.com/tasks/4675510781607936/)
 12. [[Easy] [Docker] Create your first container with simple application and a database](https://codein.withgoogle.com/tasks/5704941998440448/)
 
-14. [Create examples of Object Oriented Programming in Java](https://codein.withgoogle.com/tasks/5100596202307584/)
+14. [[Java]Create examples of Object Oriented Programming in Java](https://codein.withgoogle.com/tasks/5100596202307584/)
 15. [[Java] Deploy a spring boot application to a Wildfly server](https://codein.withgoogle.com/tasks/6520039482589184/)
 25. [[C/C++] Create your first C/C++ makefile](https://codein.withgoogle.com/tasks/5404991515262976/)
 26. [Create a simple Web Page using PatternFly React Component library.](https://codein.withgoogle.com/tasks/5415534854668288/)
-27. [[Deprecated] Create a MySQL database and a program to interact with it](https://codein.withgoogle.com/tasks/5699540573749248/)
+27. [[Beginner] Create a MySQL database and a program to interact with it](https://codein.withgoogle.com/tasks/5699540573749248/)
 29. [[Beginner] [HTML/CSS] Creating a webpage](https://codein.withgoogle.com/tasks/6385861214601216/)
